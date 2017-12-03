@@ -1,0 +1,7 @@
+#Fri Dec 01 15:36:35 CST 2017
+base.0=F\:\\ML_Android\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_677c1873e6c6fba21be213be27cc9cbb288b5b5b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\ML_Android\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dc22d63a4cac695b6e6dbae4cb6ca6815d00039\\classes.dex
+base.1=F\:\\ML_Android\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6dc22d63a4cac695b6e6dbae4cb6ca6815d00039
+file.0=F\:\\ML_Android\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_677c1873e6c6fba21be213be27cc9cbb288b5b5b\\classes.dex

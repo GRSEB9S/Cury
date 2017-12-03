@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_tracking.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment_stylize.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\camera_connection_fragment.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\list_text_item.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\list_text_item.xml"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout\\app_start.xml",
+        "source": "F:\\ML_Android\\android\\res\\layout\\app_start.xml"
+    }
+]

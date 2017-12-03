@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\ML_Android\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_appstart.png",
+        "source": "F:\\ML_Android\\android\\res\\drawable-xhdpi\\ic_appstart.png"
+    },
+    {
+        "merged": "F:\\ML_Android\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "F:\\ML_Android\\android\\res\\drawable-xhdpi\\ic_action_info.png"
+    }
+]

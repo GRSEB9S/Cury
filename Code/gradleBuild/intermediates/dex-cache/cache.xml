@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\进波\.android\build-cache\cd9d9087d5c678e2c94187ffc8569e38e3d0c466\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91bca4fa901f5ab972075e688f56ae98af48c2de">
+        <dex dex="F:\ML_Android\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10\classes_a2a6a627297c7e67216e30943557145f44136e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\进波\.android\build-cache\cd9d9087d5c678e2c94187ffc8569e38e3d0c466\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91bca4fa901f5ab972075e688f56ae98af48c2de">
+        <dex dex="F:\ML_Android\android\gradleBuild\intermediates\pre-dexed\release\classes_a2a6a627297c7e67216e30943557145f44136e45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ML_Android\android\gradleBuild\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\ML_Android\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6dc22d63a4cac695b6e6dbae4cb6ca6815d00039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ML_Android\android\gradleBuild\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d94f2ebc353d3ecf555a8ee41e46a417b75f7b39">
+        <dex dex="F:\ML_Android\android\gradleBuild\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_677c1873e6c6fba21be213be27cc9cbb288b5b5b\classes.dex" />
+    </item>
+
+</items>
